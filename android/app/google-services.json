@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338376658013",
+    "project_id": "digi-flix",
+    "storage_bucket": "digi-flix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338376658013:android:b81953eb844ba98cc751b4",
+        "android_client_info": {
+          "package_name": "com.miqdad.digi_flix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxBRhIgADAH7DYhcqiH1mLoS5iXIHuiZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
